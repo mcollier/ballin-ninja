@@ -10,7 +10,7 @@ namespace MvcApplication1.Controllers
 	{
 		public ActionResult Index()
 		{
-			ViewBag.Message = "WAWS Rocks!!";
+			ViewBag.Message = "Welcome to my Windows Azure Web Site!!";
 
 			return View();
 		}
